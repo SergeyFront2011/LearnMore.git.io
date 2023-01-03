@@ -1,0 +1,46 @@
+<!DCTYPE html>
+<html>
+  <head>
+    <style>
+      #ver{
+        text-align: left;
+      }
+      .mej{
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="ver">
+      <h1>Learn more</h1>
+    </div>
+    <div class="mej">
+      <h2>Chess</h2>
+      <img src="https://images.chesscomfiles.com/uploads/v1/article/24256.f446db09.668x375o.a367c450ba18@2x.jpeg" alt=" chess" width="500">
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
+<br>
+Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer text
+<br>
+a galley of type and scrambled it to make a type specimen book. It has survived not only five
+<br>
+centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+<br>
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages
+<br>
+, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<h2>Math</h2>
+<img src="https://img.freepik.com/free-vector/scientific-formulas-chalkboard_23-2148494010.jpg?w=740&t=st=1672732963~exp=1672733563~hmac=c9386cdba81289ffe4669f04f871fa3c04d2532101c9b5b3204581f21815002c" alt="math" width="500">
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
+<br>
+Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer text
+<br>
+a galley of type and scrambled it to make a type specimen book. It has survived not only five
+<br>
+centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+<br>
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages
+<br>
+, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    </div>
+  </body>
+</html>
